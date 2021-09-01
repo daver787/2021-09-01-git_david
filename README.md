@@ -23,6 +23,13 @@
 - Conflicts may happen during push/pull syncs
 
 ## Branches
--`git branch <NAME>`: create a branch where you are(i.e. head)
--`git branch -a`: list all the branches you are on
+- `git branch <NAME>`: create a branch where you are(i.e. head)
+- `git branch -a`: list all the branches you are on
 - `git switch <BRANCH>`: newer way to change branches
+- `git switch -c <BRANCH>`:create and move to <branch> in 1 step
+	-`git checkout -b <BRANCH>`:the older way to create and move to branch
+- pull request: meraging a branch on the remote(i.e. Github)
+	- update PR by pushing to the branch
+	- merge the PR in the remote
+	- delete the branch on the remote
+https://bi-sdal.github.io/training/help-faq.html
