@@ -25,4 +25,4 @@
 ## Branches
 -`git branch <NAME>`: create a branch where you are(i.e. head)
 -`git branch -a`: list all the branches you are on
-
+- `git switch <BRANCH>`: newer way to change branches
