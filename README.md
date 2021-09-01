@@ -13,7 +13,7 @@
 - `git checkout <HASH> <FILE>`:revert <FILE> to the version in <HASH>
 - `git checkout <HASH>`: revert eeverything to <HASH> in a detached HEAD state
 	-`git checkout main`/`git switch main`:to go back
-## Remotes
+## RemOtes
 
 - `git remote add <NAME> <URL>`:add a remote <NAME> using the <URL>
 	- `git remote add origin origin XXXXX`
@@ -22,7 +22,7 @@
 - `git pull <REMOTE><BRANCH>`:pull changes from remote down to local computer <BRANCH>
 - Conflicts may happen during push/pull syncs
 
-## Branches
+## BranChes
 - `git branch <NAME>`: create a branch where you are(i.e. head)
 - `git branch -a`: list all the branches you are on
 - `git switch <BRANCH>`: newer way to change branches
@@ -33,3 +33,4 @@
 	- merge the PR in the remote
 	- delete the branch on the remote
 https://bi-sdal.github.io/training/help-faq.html
+-changes from b2
