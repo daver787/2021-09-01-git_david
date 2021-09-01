@@ -13,4 +13,9 @@
 - `git checkout <HASH> <FILE>`:revert <FILE> to the version in <HASH>
 - `git checkout <HASH>`: revert eeverything to <HASH> in a detached HEAD state
 	-`git checkout main`/`git switch main`:to go back
--
+## Remotes
+
+- `git remote add <NAME> <URL>`:add a remote <NAME> using the <URL>
+	- `git remote add origin origin XXXXX`
+- `git remote -v `: shows you what remotes you have
+- `git push <REMOTE><BRANCH>`:sends your changes to the remote
