@@ -33,3 +33,4 @@
 	- merge the PR in the remote
 	- delete the branch on the remote
 - quick link for for workflow: https://bi-sdal.github.io/training/help-faq.html
+- `git rebase main`: rebases current branch 
