@@ -10,3 +10,7 @@
 	-`git log -oneline`:shows you the oneline log
 - `git diff`: diff current changes to last git state
 	- `git diff <HASH>/HEAD`~<NUM>:diff current state to another commit 
+- `git checkout <HASH> <FILE>`:revert <FILE> to the version in <HASH>
+- `git checkout <HASH>`: revert eeverything to <HASH> in a detached HEAD state
+	-`git checkout main`/`git switch main`:to go back
+-
