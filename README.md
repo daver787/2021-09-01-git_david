@@ -32,4 +32,4 @@
 	- update PR by pushing to the branch
 	- merge the PR in the remote
 	- delete the branch on the remote
-https://bi-sdal.github.io/training/help-faq.html
+- quick link for for workflow: https://bi-sdal.github.io/training/help-faq.html
