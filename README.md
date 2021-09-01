@@ -19,3 +19,4 @@
 	- `git remote add origin origin XXXXX`
 - `git remote -v `: shows you what remotes you have
 - `git push <REMOTE><BRANCH>`:sends your changes to the remote
+- `git pull <REMOTE><BRANCH>`:pull changes from remote down to local computer <BRANCH>
