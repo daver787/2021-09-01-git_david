@@ -33,3 +33,4 @@
 	- merge the PR in the remote
 	- delete the branch on the remote
 https://bi-sdal.github.io/training/help-faq.html
+-changes from b2
