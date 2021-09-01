@@ -21,3 +21,8 @@
 - `git push <REMOTE><BRANCH>`:sends your changes to the remote
 - `git pull <REMOTE><BRANCH>`:pull changes from remote down to local computer <BRANCH>
 - Conflicts may happen during push/pull syncs
+
+## Branches
+-`git branch <NAME>`: create a branch where you are(i.e. head)
+-`git branch -a`: list all the branches you are on
+
